@@ -5,7 +5,7 @@
 
 ### 📫 Contact me via:
    - 📫 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/qminh0410): [Lê Quang Minh](https://www.facebook.com/qminh0410).
-   - 📫 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:lequangminh.dev@gmail.com): [qminh0410.@gmail.com](mailto:lequangminh.dev@gmail.com).
+   - 📫 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:lequangminh.dev@gmail.com): [lequangminh.dev@gmail.com](mailto:lequangminh.dev@gmail.com).
 
 ### :zap: GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=minhlq-uit&show_icons=true&theme=tokyonight&hide=issues)
