@@ -1,5 +1,5 @@
 ### 🎾 Hi, My name is Le Quang Minh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">. I'm a student in Computer Science major.
-  - 🎾 I have experiences with ```C++``` ```Python``` ```HTML, CSS``` ```Javascript``` ```Vuejs``` ```Reactjs``` ```Nodejs```.
+  - 🎾 I have experiences with  ```HTML, CSS``` ```Javascript``` ```Vuejs``` ```Reactjs``` ```Angular``` ```Nuxtjs``` ```Graphql``` ```Nodejs``` ```C++``` ```Python```.
   - 🎾 I’m currently learning Computer Science at [University of Information Technology (UIT) - Vietnam National University](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology).
   - 🎾 I have basic knowledge in ```Web Development``` .
 
