@@ -10,4 +10,3 @@
 ### :zap: GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=minhlq-uit&show_icons=true&theme=tokyonight&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhlq-uit&layout=compact&hide=jupyter%20notebook&html&title_color=71A4FC&text_color=3ABCAD&bg_color=1A1B27)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=minhlq-uit&bg_color=1A1B27&color=71A4FC&line=3ABCAD&point=BE91F2&area=true)  
